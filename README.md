@@ -18,6 +18,7 @@ make help
 
 The dataset is from the UCI Machine Learning Repository.
 
+```bibtex
 @misc{adult_2,
   author       = {Becker, Barry and Kohavi, Ronny},
   title        = {{Adult}},
@@ -25,6 +26,7 @@ The dataset is from the UCI Machine Learning Repository.
   howpublished = {UCI Machine Learning Repository},
   note         = {{DOI}: https://doi.org/10.24432/C5XW20}
 }
+```
 
 ### License
 
