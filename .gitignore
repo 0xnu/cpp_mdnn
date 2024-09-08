@@ -1,0 +1,83 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+
+# CMake build directory
+cmake-build-*/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+deps/
+lib/
+
+# Any log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Core dumps
+core
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+
+# Compiled protobuf files
+*.pb.h
+*.pb.cc
+
+# Environment variables file
+.env
+
+# Local configuration files
+*.local.conf
+
+# MiniDNN specific
+MiniDNN/
+
+# C++ specific
+*.ii
+*.s
+
+# Eigen library
+eigen/
+
+# Generated documentation
+doc/
+
+# Code coverage files
+*.gcno
+*.gcda
+*.gcov
