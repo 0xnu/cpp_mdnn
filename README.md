@@ -8,6 +8,10 @@ To run the program and save results, execute:
 
 ```sh
 make run
+
+## FOR HELP ##
+
+make help
 ```
 
 ### License
